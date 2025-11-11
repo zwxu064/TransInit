@@ -2,11 +2,11 @@
 
 - If you find our work, [TransInit](https://arxiv.org/abs/2010.04363), or the [code](https://github.com/zwxu064/TransInit.git) useful, please cite it below.
   ```
-  @article{xu2020transinit,
-  title={Refining Semantic Segmentation with Superpixel by Transparent Initialization and Sparse Encoder},
-  author={Zhiwei Xu, Thalaiyasingam Ajanthan, and Richard Hartley},
-  journal={arXiv:2010.04363},
-  year={2020}
+  @inproceedings{xu:arxiv2020trans,
+      title={Refining Semantic Segmentation with Superpixel by Transparent Initialization and Sparse Encoder},
+      author={Zhiwei Xu, Thalaiyasingam Ajanthan, and Richard Hartley},
+      booktitle={arXiv:2010.04363},
+      year={2020}
   }
   ```
  
